@@ -1,0 +1,6 @@
+A=input('Hi, What is your name? ')
+print(A)
+print('Nice to meet you ' + A )
+B=input('what is your favourite color? ')
+print(B)
+print('Mosh likes blue too ')
